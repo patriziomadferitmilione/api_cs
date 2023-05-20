@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "sYL0zHNDOmeGHl4746mZAa2YqwXGoeuMiP8YuuCyJRk=",
+  "Source": "API_MOVIES",
+  "BasePath": "_content/API_MOVIES",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
